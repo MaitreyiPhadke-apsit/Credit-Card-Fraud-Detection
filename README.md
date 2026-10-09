@@ -1,4 +1,3 @@
-# Credit-Card-Fraud-Detection
 # Credit Card Fraud Detection
 
 A machine learning project that classifies a credit card transaction as **fraud** or **legitimate**, with a small Streamlit web app to try it out.
